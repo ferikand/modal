@@ -1,0 +1,42 @@
+scrimba
+Frontend Career Path
+Essential JavaScript concepts
+Challenges
+Build a Modal: HTML
+
+
+Karl Hadwen
+twitter
+Building out our modal's HTML.
+Build a Modal: Buttons CSS
+3:12
+Build a Modal: HTML
+Expand for more info
+Build a Modal: Buttons CSS
+3:12
+styles.css
+1234567891011121314151617181920212223242526
+html, body {  margin: 0;  padding: 50px;  font-family: Arial, Helvetica, sans-serif;  text-align: center;} /** we need to style our open and close buttons, re-use the comma , to target both buttons **/ /** modal -> remember we used an ID for this div? we can target it by doing #modal **/ /** overlay -> we also used an ID for this, so do the same as above **//** the overlay must overtake the screen, so how would you make the overlay 100% height and 100% width so it fills the entire screen? it also must position itself above everything else! /* ========= Things to note =========   1) remember on the presentation we want to briefly hide the background of the modal overlay?   hint: look at the notes below! rgba...  2)*/ /*======== Helpers  - rgba = red, green blue, alpha (alpha being the opacity on a scale of 0 to 1 - 0.5 sounds good?)  - rgba is complex and it's a bit of a time sink to remember all the values, look at rgba colour   values online, or rgba colour convetors, or even colour palettes!  - if you come from a design background, you'll know you can convert HEX values (e.g. #ffffff to   rgba using a convertor)*/
+
+/** overlay -> we also used an ID for this, so do the same as above **/
+/** the overlay must overtake the screen, so how would you make the overlay 100% height and 100% width so it fills the entire screen? it also must position itself above everything else!
+
+/* 
+========= Things to note ========= 
+  1) remember on the presentation we want to briefly hide the background of the modal overlay? hint: look at the notes below! rgba...
+  2)
+
+Find
+No Results
+
+CONSOLE
+/index.html
+
+
+js">      N overlay ts CONSOLE EXPLORER index. Перекласти
+overlay
+
+[ouvəlɛɪː]
+ВИБЕРІТЬ ПЕРЕКЛАД
+накладення
+Додати свій переклад
